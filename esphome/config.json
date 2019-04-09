@@ -1,6 +1,6 @@
 {
-  "name": "ESPHome",
-  "version": "1.12.2",
+  "name": "ESPHomeTool-vi",
+  "version": "phiên bản 1.12.2",
   "slug": "esphome",
   "description": "Đây là công cụ hổ trợ biên dịch mã yaml sang mã arduino cho module esp32/esp8266.",
   "url": "https://esphome.io/",
