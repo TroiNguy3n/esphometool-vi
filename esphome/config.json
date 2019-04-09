@@ -2,7 +2,7 @@
   "name": "ESPHome",
   "version": "1.12.2",
   "slug": "esphome",
-  "description": "ESPHome Hass.io add-on for intelligently managing all your ESP8266/ESP32 devices.",
+  "description": "Đây là công cụ hổ trợ biên dịch mã yaml sang mã arduino cho module esp32/esp8266.",
   "url": "https://esphome.io/",
   "webui": "http://[HOST]:[PORT:6052]",
   "startup": "application",
