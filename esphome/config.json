@@ -39,5 +39,5 @@
     "relative_url": "str?",
     "status_use_ping": "bool?"
   },
-  "image": "TroiNguy3n/esphometool-vi-{arch}"
+  "image": "esphome/esphometool-hassio-{arch}"
 }
