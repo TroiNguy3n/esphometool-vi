@@ -1,7 +1,7 @@
 {
   "name": "ESPHomeTool-vi",
   "version": "1.12.2",
-  "slug": "esphome",
+  "slug": "TroiNguy3n",
   "description": "Đây là công cụ hổ trợ biên dịch mã yaml sang mã arduino cho module esp32/esp8266.",
   "url": "https://github.com/TroiNguy3n/esphometool-vi/",
   "webui": "http://[HOST]:[PORT:6052]",
@@ -39,5 +39,5 @@
     "relative_url": "str?",
     "status_use_ping": "bool?"
   },
-  "image": "TroiNguy3n/esphometool-vi-esphome-{arch}"
+  "image": "esphometool-vi/esphome-hassio-{arch}"
 }
